@@ -1,0 +1,2 @@
+// okey
+print(db.school.count());
